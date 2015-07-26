@@ -8,7 +8,7 @@
 7.  The "part5.txt" file is then written.  
 
 Activity Codes are shown below:
-1. 1 WALKING
+1.  1 WALKING
 2. 2 WALKING_UPSTAIRS
 3. 3 WALKING_DOWNSTAIRS
 4. 4 SITTING
